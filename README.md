@@ -5,7 +5,7 @@
  
  I made the both design and coding.
  
-# Tech and Plugins
+# Theme and Plugins
 
 The theme mostly natively coded. There is only 2 plugin is used to make this website. 
 
