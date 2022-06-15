@@ -1,9 +1,9 @@
 # e-Learning WordPress Theme
- This is my  e-Learning project WordPress Theme from 2016. 
+This is my e-Learning project that I coded from 2016. 
+
+I sold the website and videos made exited. 
  
- I sold the videos and exited the project. 
- 
- I made the both design and coding.
+I made the both design and coding.
  
 # Theme and Plugins
 
